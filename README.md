@@ -31,5 +31,9 @@ dx^2/d^2t = - kx^a
 上式运动的周期表达式为  
 ![解析式](https://github.com/Wangzhengwhu/Homework-8/blob/master/%E8%A7%A3%E6%9E%90%E5%BC%8F.png)  
 在上面的结果中给出  
+![](https://github.com/Wangzhengwhu/Homework-8/blob/master/3.png)  
+上图显示了在k=1时，不同的a的值对应不同的周期，其中当a=1时，周期大致呈线性关系。
+##致谢
+感谢刘星辰和陈洋遥同学
 
 
