@@ -27,4 +27,9 @@ dx^2/d^2t = - kx^a
 利用四阶R—K算法计算其数值解，在k = 1 , a = 1,2,3,4时的计算结果  
 [程序](https://github.com/Wangzhengwhu/Homework-8/blob/master/5.py)  
 ![计算结果对比图](https://github.com/Wangzhengwhu/Homework-8/blob/master/2.png)  
+从图中可以看出，当a=1，3时，运动稳定，当a=2，4时，在4s后运动变得不稳定，且离开平衡位置越来越大，可从角度的变化可以看出。  
+上式运动的周期表达式为  
+![解析式](https://github.com/Wangzhengwhu/Homework-8/blob/master/%E8%A7%A3%E6%9E%90%E5%BC%8F.png)  
+在上面的结果中给出  
+
 
